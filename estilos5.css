@@ -1,0 +1,105 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.panel-general{
+ width: 100%; 
+ height: 200px;
+ background-color: rgb(44, 90, 189);
+ 
+}
+.panel-medio{
+  width: 100%; 
+  height: 50px;
+  background-color: rgb(46, 46, 46);
+  text-align: center;
+
+}
+div#panel-secundario{
+  width: 100%; 
+  height: 45px;
+  background-color: rgb(206, 5, 5);
+  border-radius: 1em;
+  text-align: center;
+}
+div#Dios{
+  width: 90%; 
+  height: 100px;  
+  align-content: center;
+  margin: 4em;
+}
+.boton_1{
+  text-decoration: none;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: 30;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(250, 250, 250);
+  background-color: rgb(44, 90, 189);
+  border-radius: 10px;
+  border: 2px double rgb(3, 19, 56);
+}
+
+.boton_2{
+  text-decoration: none;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: 30;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(250, 250, 250);
+  background-color: rgb(44, 90, 189);
+  border-radius: 10px;
+  border: 2px double rgb(3, 19, 56);
+}
+
+.boton_3{
+  
+  text-decoration: none;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: 30;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(250, 250, 250);
+  background-color: rgb(44, 90, 189);
+  border-radius: 10px;
+  border: 2px double rgb(3, 19, 56);
+}
+
+div#Truco{
+  align-content: center;
+  margin: 2em;
+}
+
+.navegacion{
+  padding-top: 15px;
+}
+
+.pancho{
+  padding-top: 10px;
+}
+
+.botones{
+  font-weight: bolder;
+  padding: 5px;
+}
+
+.botones:hover{
+  color: blue;
+  border-color: blue;
+  background-color: white;
+}
+
+.jaimito{
+  margin-right: 20px;
+}
+
+.row{
+  margin-top: 15px;
+}
